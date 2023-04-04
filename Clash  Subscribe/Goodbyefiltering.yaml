@@ -4278,7 +4278,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-        - 🔆🆔 @Goodbyefiltering🔆_1
+      - 🔆🆔 @Goodbyefiltering🔆_1
       - 🔆🆔 @Goodbyefiltering🔆_2
       - 🔆🆔 @Goodbyefiltering🔆_3
       - 🔆🆔 @Goodbyefiltering🔆_4
